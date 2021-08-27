@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/subcounter-react/static/css/main.13a61a47.chunk.css",
+    "main.js": "/subcounter-react/static/js/main.97729280.chunk.js",
+    "main.js.map": "/subcounter-react/static/js/main.97729280.chunk.js.map",
+    "runtime-main.js": "/subcounter-react/static/js/runtime-main.5f6f2b22.js",
+    "runtime-main.js.map": "/subcounter-react/static/js/runtime-main.5f6f2b22.js.map",
+    "static/css/2.c39cdd15.chunk.css": "/subcounter-react/static/css/2.c39cdd15.chunk.css",
+    "static/js/2.2bb9d0cb.chunk.js": "/subcounter-react/static/js/2.2bb9d0cb.chunk.js",
+    "static/js/2.2bb9d0cb.chunk.js.map": "/subcounter-react/static/js/2.2bb9d0cb.chunk.js.map",
+    "index.html": "/subcounter-react/index.html",
+    "static/css/2.c39cdd15.chunk.css.map": "/subcounter-react/static/css/2.c39cdd15.chunk.css.map",
+    "static/css/main.13a61a47.chunk.css.map": "/subcounter-react/static/css/main.13a61a47.chunk.css.map",
+    "static/js/2.2bb9d0cb.chunk.js.LICENSE.txt": "/subcounter-react/static/js/2.2bb9d0cb.chunk.js.LICENSE.txt",
+    "static/media/tglogo.8df5d3e3.svg": "/subcounter-react/static/media/tglogo.8df5d3e3.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f6f2b22.js",
+    "static/css/2.c39cdd15.chunk.css",
+    "static/js/2.2bb9d0cb.chunk.js",
+    "static/css/main.13a61a47.chunk.css",
+    "static/js/main.97729280.chunk.js"
+  ]
+}
